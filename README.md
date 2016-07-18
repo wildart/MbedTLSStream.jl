@@ -1,7 +1,13 @@
-# MbedTLSStream
+# MbedTLSStream.jl
 
-[![Build Status](https://travis-ci.org/wildart/MbedTLSStream.jl.svg?branch=master)](https://travis-ci.org/wildart/MbedTLSStream.jl)
+Native mbedTLS-based TLS stream constructor for `libgit2`
 
-[![Coverage Status](https://coveralls.io/repos/wildart/MbedTLSStream.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/wildart/MbedTLSStream.jl?branch=master)
+[![Build Status](https://travis-ci.org/JuliaLang/MbedTLSStream.jl.svg?branch=master)](https://travis-ci.org/JuliaLang/MbedTLSStream.jl)
 
-[![codecov.io](http://codecov.io/github/wildart/MbedTLSStream.jl/coverage.svg?branch=master)](http://codecov.io/github/wildart/MbedTLSStream.jl?branch=master)
+[![Coverage Status](https://coveralls.io/repos/JuliaLang/MbedTLSStream.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/JuliaLang/MbedTLSStream.jl?branch=master)
+
+[![codecov.io](http://codecov.io/github/JuliaLang/MbedTLSStream.jl/coverage.svg?branch=master)](http://codecov.io/github/JuliaLang/MbedTLSStream.jl?branch=master)
+
+## TODO
+- Proxy support
+- Certificate callback
